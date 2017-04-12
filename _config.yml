@@ -16,5 +16,8 @@ gplus_username:  Lucas Ferraz
 # Google-analytics
 google-analytics:
   id: "UA-97251498-1"
+  
+# Google-AdSense
+google_ad_client: "ca-pub-8284956553090163"
 
 exclude: ['package.json', 'src' , 'node_modules']
