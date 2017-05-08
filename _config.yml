@@ -1,17 +1,18 @@
 # Site settings
-title: Lucas Ferraz
+title: Pedro Santana 
 description: Lucas Ferraz
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lucas Ferraz
-user_description: Meu nome é Lucas Ferraz tenho 17 anos, gosto muito de música, jogos de racicínio, esportes e surfar na web.   .
+username: Pedro Santana
+user_description: Olá, Meu nome é Pedro Henrique de Santana tenho 17 anos e sou de Guarulhos São Paulo. Gosto de música principalmente 
+RAP/ Hip-hop. 
+
 user_title: Desenvolvedor e Designer
-email: ulucas@uninove.edu.br
-twitter_username: uniteluks
-github_username:  eulucas
-gplus_username:  Lucas Ferraz
+email: pedroprog@uninove.edu.br
+github_username:  DotyJJ
+
 
 # Google-analytics
 google-analytics:
